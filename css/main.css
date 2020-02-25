@@ -771,10 +771,9 @@ footer .menu {
   display: flex;
   justify-content: center;
 }
-footer .menu a {
-  margin: 3px 15px;
+footer .menu p {
   color: #fff;
-  font-size: 0.8rem;
+  font-size: 13px;
 }
 footer .socials_footer {
   display: flex;
