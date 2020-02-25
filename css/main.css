@@ -740,12 +740,10 @@ footer {
   background-color: #000;
   padding: 0.5rem 0;
 }
-/* footer .menu a {
-  color: red;
-  display: inline-block;
-  margin: 0;
-  text-transform: uppercase;
-} */
+footer .menu p {
+  color: #fff;
+  font-size: 13px;
+}
 
 footer .menu a.link-info:after,
 #section1 .nav-item a.link-info:after {
